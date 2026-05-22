@@ -1,0 +1,6 @@
+{
+	"name": "LocalSQLRuntime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"name": "EliezerJimenezADF",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e2cff1d0-425a-47ec-bf04-c115e8496af1",
+		"tenantId": "e119fcff-4f35-4338-8343-76d459894b6b"
+	}
+}
